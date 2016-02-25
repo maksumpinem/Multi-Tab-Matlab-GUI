@@ -1,0 +1,503 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fu",
+				"function"
+			],
+			[
+				"cl",
+				"class	class …"
+			],
+			[
+				"bold",
+				"bold_cyan"
+			],
+			[
+				"dar",
+				"darkmagenta"
+			],
+			[
+				"host",
+				"hostsupdater"
+			],
+			[
+				"M",
+				"Material-Theme"
+			],
+			[
+				"a",
+				"apps"
+			],
+			[
+				"req",
+				"require_once"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"l",
+				"li	Tag"
+			],
+			[
+				"la",
+				"lagiPakaiBaju"
+			],
+			[
+				"co",
+				"conn"
+			],
+			[
+				"mysqli",
+				"mysqli_query"
+			],
+			[
+				"unse",
+				"unset"
+			],
+			[
+				"wor",
+				"wordpress"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 354.0,
+		"last_filter": "Package Control: ",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Add Channel"
+			],
+			[
+				"ge",
+				"PHP: Generate Getters and Setters"
+			],
+			[
+				"ind",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"vme",
+				"View: Toggle Menu"
+			],
+			[
+				"gett",
+				"PHP: Generate Getters and Setters"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"getter",
+				"Generate Getter and Setter for ..."
+			],
+			[
+				"setter",
+				"Generate Setter for ..."
+			],
+			[
+				"get",
+				"Snippet: GET['…']"
+			],
+			[
+				"packa",
+				"Package Control: Add Channel"
+			],
+			[
+				"packe",
+				"Preferences: Browse Packages"
+			],
+			[
+				"v",
+				"View: Toggle Menu"
+			],
+			[
+				"pack",
+				"Preferences: Browse Packages"
+			],
+			[
+				"",
+				"About"
+			],
+			[
+				"vm",
+				"View: Toggle Menu"
+			]
+		],
+		"width": 382.0
+	},
+	"console":
+	{
+		"height": 190.0,
+		"history":
+		[
+			"Package Control: Add Repository",
+			"cd ~/Library/Application\\ Support/Sublime\\ Text\\ 3/Packages/",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"view.settings().get('font_face')"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/My Documents/MATLAB/Prototipe new multitab GUI"
+	],
+	"file_history":
+	[
+		"/D/Code/coba/coba.ino",
+		"/C/Users/Nugraha/AppData/Roaming/Sublime Text 3/Packages/Arduino-like IDE/compile/arduino_avr.txt",
+		"/C/Users/Nugraha/AppData/Roaming/Sublime Text 3/Packages/Arduino-like IDE/StinoStarter.py",
+		"/C/Users/Nugraha/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Program Files (x86)/Arduino/lib/theme/theme.txt",
+		"/C/Program Files (x86)/Arduino/lib/theme-old/theme.txt",
+		"/C/Users/Nugraha/Desktop/seems promising.c",
+		"/C/Program Files (x86)/Arduino/lib/theme/syntax/dark.xml",
+		"/C/Program Files/Git/etc/profile.d/git-prompt.sh",
+		"/C/cygwin64/home/Nugraha/.bashrc",
+		"/C/cygwin64/home/Nugraha/testColorScheme.sh",
+		"/D/Code/pubnub/pubnub.ino",
+		"/C/Program Files (x86)/Arduino/libraries/sim908GSM/inetGSM.cpp",
+		"/C/cygwin64/home/Nugraha/mintty-color-pastel.sh",
+		"/C/Users/Nugraha/.minttyrc",
+		"/C/Users/Nugraha/.bashrc",
+		"/C/cygwin64/home/Nugraha/.bash_profile",
+		"/C/cygwin64/home/Nugraha/New Text Document.txt",
+		"/D/My Documents/WindowsPowerShell/Microsoft.PowerShell_profile.ps1",
+		"/C/Program Files (x86)/Arduino/libraries/Suli/Suli.h",
+		"/C/Program Files (x86)/Arduino/libraries/Suli/Suli.cpp",
+		"/C/Program Files (x86)/Arduino/libraries/GPRS_Shield_Suli/sim900_Suli.h",
+		"/C/Program Files (x86)/Arduino/libraries/GPRS_Shield_Suli/sim900_Suli.cpp",
+		"/C/Program Files (x86)/Arduino/libraries/GPRS_Shield_Suli/GPRS_Shield_Arduino.h",
+		"/C/Program Files (x86)/Arduino/libraries/GPRS_Shield_Suli/GPRS_Shield_Arduino.cpp",
+		"/C/Users/Nugraha/Desktop/arduino-master/examples/PubNubJsonWifi/PubNubJsonWifi.ino",
+		"/C/Users/Nugraha/Desktop/arduino-master/PubNub.cpp",
+		"/C/Users/Nugraha/backup/.bashrc",
+		"/C/Users/Nugraha/AppData/Roaming/ConEmu.xml",
+		"/D/xampp/php/php.ini",
+		"/D/xampp/php/extras/openssl/openssl.cnf",
+		"/D/Code/larabook/config/app.php",
+		"/D/xampp/apache/conf/extra/httpd-vhosts.conf",
+		"/D/xampp/apache/makecert.bat",
+		"/D/Code/cacert.pem",
+		"/D/xampp/apache/conf/ssl.crt/server.crt",
+		"/C/Program Files (x86)/Arduino/libraries/SoftwareSerial/SoftwareSerial.cpp",
+		"/D/Code/larabook/composer.json",
+		"/C/Program Files/Git/etc/profile.d/git-prompt xx.sh",
+		"/C/Program Files/Git/etc/profile.d/git-prompt - Copy.sh",
+		"/C/cygwin64/home/Nugraha/.bash_it/themes/awan/awan.theme.bash",
+		"/C/Users/Nugraha/.bash_profile",
+		"/D/cartracker/composer.json",
+		"/C/cygwin64/Cygwin.bat",
+		"/C/cygwin64/home/Nugraha/.bash_it/install.sh",
+		"/C/cygwin64/home/Nugraha/.bash_it/bash_it.sh",
+		"/C/cygwin64/home/Nugraha/.bashrc.bak",
+		"/C/Users/Nugraha/.bash_it/themes/clean/clean.theme.bash",
+		"/D/Code/provider-2014$c89e01cdebc671f7195a0f8630e49a45418a547bcc1399649e84151365d4afc7.json",
+		"/C/Users/Nugraha/AppData/Roaming/Sublime Text 3/Packages/User/matlab.sublime-build",
+		"/D/My Documents/MATLAB/Prototipe new multitab GUI/SimulasiKanal.m",
+		"/C/Users/Nugraha/AppData/Local/Composer/repo/https---packagist.org/p-provider-2013.json",
+		"/D/My Documents/MATLAB/Prototipe new multitab GUI/info.xml",
+		"/D/My Documents/MATLAB/Prototipe new multitab GUI/UserInterfaceMain.m",
+		"/C/Users/Nugraha/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/D/Code/learning-laravel-5/.gitignore",
+		"/D/Code/learning-laravel-5/app/Article.php",
+		"/D/Code/learning-laravel-5/resources/views/layouts/nav.blade.php",
+		"/C/Users/Nugraha/AppData/Roaming/Sublime Text 3/Packages/Material Theme/schemes/Facebook.tmTheme",
+		"/D/Code/larabook/app/Http/routes.php",
+		"/C/Users/Nugraha/AppData/Roaming/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+		"/C/Users/Nugraha/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/D/Code/larabook/resources/views/welcome.blade.php",
+		"/C/Users/Nugraha/.aliases",
+		"/C/Program Files/Git/etc/profile.d/aliases.sh",
+		"/C/Program Files/Git/etc/profile.d/env.sh",
+		"/C/Users/Nugraha/.bash_it/bash_it.sh",
+		"/C/Users/Nugraha/aliases.bash",
+		"/D/Code/aliases",
+		"/D/Code/.aliases",
+		"/C/Program Files/Git/etc/profile.d/bash_profile.sh",
+		"/C/Users/Nugraha/Desktop/git-prompt.sh",
+		"/C/Program",
+		"/C/Users/Nugraha/pshazz/se.json",
+		"/C/Users/Nugraha/Desktop/dejavu-fonts-ttf-2.35/README",
+		"/C/Users/Nugraha/.bash_it/themes/colors.theme.bash",
+		"/C/Users/Nugraha/.bash_it/themes/cupcake/cupcake.theme.bash",
+		"/C/Program Files/Git/etc/profile.d/perlbin.csh",
+		"/C/Program Files/Git/etc/profile.d/lang.sh",
+		"/C/Program Files/Git/etc/profile.d/perlbin.sh",
+		"/C/Users/Nugraha/.bash_it/aliases/available/ag.aliases.bash",
+		"/C/Users/Nugraha/.bash_it/aliases/enabled/general.aliases.bash",
+		"/C/Users/Nugraha/general.aliases",
+		"/D/Code/Files/ConEmu/Logs/ConEmu-2016-02-16-p9200.log",
+		"/C/Users/Nugraha/.bash_it/themes/base.theme.bash",
+		"/C/Users/Nugraha/.bash_it/install.sh",
+		"/C/Users/Nugraha/.bash_it/aliases/available/laravel.aliases.bash",
+		"/C/Users/Nugraha/.bash_it/aliases/available/fuck.aliases.bash",
+		"/C/Users/Nugraha/.pshazz",
+		"/C/Users/Nugraha/pshazz/sederhana.json",
+		"/C/Users/Nugraha/AppData/Local/scoop/apps/pshazz/0.2015.11.13/themes/tonic.json",
+		"/C/Users/Nugraha/AppData/Local/scoop/apps/pshazz/0.2015.11.13/themes/lukes.json",
+		"/C/Users/Nugraha/.gitconfig",
+		"/C/Windows/SysWOW64/WindowsPowerShell/v1.0/Modules/setconsolefont.psm1",
+		"/C/Users/Nugraha/AppData/Local/scoop/apps/pshazz/0.2015.11.13/themes/myty.json",
+		"/D/setconsolefont.psm1",
+		"/D/Code/learning-laravel-5/public/css/final.css",
+		"/C/Users/Nugraha/.bash_history",
+		"/C/Users/Nugraha/.bash_it/themes/binaryanomaly/binaryanomaly.theme.bash",
+		"/C/Program Files/Git/mingw64/share/doc/git-doc/giteveryday.html",
+		"/C/Users/Nugraha/.bash_it/themes/bakke/bakke.theme.bash",
+		"/C/Users/Nugraha/Desktop/zsh-5.2/INSTALL",
+		"/D/My Documents/ConEmu/Base16 Ocean Dark.xml",
+		"/C/Users/Nugraha/Desktop/zsh-5.2/Etc/FAQ02.html",
+		"/C/Users/Nugraha/AppData/Local/Temp/Rar$EXa0.347/zsh-5.2/Etc/FAQ01.html",
+		"/D/My Documents/ConEmu/backupSetting.xml",
+		"/C/Users/Nugraha/Desktop/zsh-5.2/install-sh",
+		"/C/Users/Nugraha/Desktop/Console2/console.xml",
+		"/C/Users/Nugraha/Desktop/cygwin64/home/Nugraha/git/solarized/mintty-colors-solarized/.minttyrc--solarized-light",
+		"/C/cygwin64/home/Nugraha/.minttyrc",
+		"/C/Users/Nugraha/AppData/Local/GitHub/PortableGit_c7e0cbde92ba565cb218a521411d0e854079a28c/etc/vimrc",
+		"/C/Users/Nugraha/Desktop/cygwin64/home/Nugraha/git/solarized/mintty-colors-solarized/.minttyrc--solarized-dark",
+		"/C/Users/Nugraha/AppData/Local/GitHub/PortableGit_c7e0cbde92ba565cb218a521411d0e854079a28c/etc/DIR_COLORS",
+		"/C/Users/Nugraha/AppData/Roaming/Microsoft/Windows/Start Menu/Programs/GitHub, Inc/GitHub.appref-ms",
+		"/C/Users/Nugraha/AppData/Roaming/Microsoft/Windows/Start Menu/Programs/GitHub, Inc/Git Shell.lnk",
+		"/C/cygwin64/home/Nugraha/bin/composer",
+		"/C/cygwin64/home/Nugraha/bin/php",
+		"/C/cygwin64/home/Nugraha/bin/.php.swp",
+		"/D/Code/learning-laravel-5/resources/views/home.blade.php",
+		"/C/cygwin64/home/Nugraha/php",
+		"/C/Users/Nugraha/.homestead/Homestead.yaml",
+		"/D/Code/Homestead/composer.json",
+		"/C/Users/Nugraha/Homestead/Vagrantfile",
+		"/C/cygwin64/home/Nugraha/git/solarized/mintty-colors-solarized/mintty-solarized-dark.sh",
+		"/C/cygwin64/home/Nugraha/git/solarized/mintty-colors-solarized/.minttyrc--solarized-light",
+		"/D/Code/Homestead/readme.md",
+		"/D/Code/larabook/vendor/symfony/process/Process.php",
+		"/C/windows/system32/drivers/etc/hosts"
+	],
+	"find":
+	{
+		"height": 70.0
+	},
+	"find_in_files":
+	{
+		"height": 158.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"target_tools_avrdude_path",
+			"already ",
+			"send(",
+			"tas",
+			"defa",
+			"full",
+			"TLS",
+			"scroll b",
+			"folder_open.png",
+			"bold_",
+			"magenta",
+			"green",
+			"cyan",
+			"bold",
+			"__color_red",
+			"VIRTUAL_ENV",
+			"virtualenv_prompt",
+			"VIRTUALENV_THEME_PROMPT_PREFIX",
+			"VIRTUAL_ENV",
+			"GIT_THEME_PROMPT_CLEAN",
+			"public function setTimeout",
+			"timeout",
+			"⚡",
+			"font",
+			"D:\\xampp\\htdocs",
+			"+",
+			" ",
+			"+",
+			"%20",
+			"+",
+			"Búza+u.+2,+Pákozd,+8095+Hungary",
+			"+",
+			" ",
+			".local",
+			"C:/xampp/www",
+			"function",
+			" \n",
+			"Virtual",
+			"virtual"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"",
+			"m",
+			"g",
+			"c",
+			"bld",
+			"%20",
+			" ",
+			"%20",
+			"+",
+			".lc",
+			"D:/xampp/htdocs",
+			"D:\\xampp\\htdocs"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.coba":
+	{
+		"height": 174.0
+	},
+	"output.exec":
+	{
+		"height": 168.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.stino_log":
+	{
+		"height": 174.0
+	},
+	"pinned_build_system": "Packages/User/matlab.sublime-build",
+	"project": "SimulasiTelkom.sublime-project",
+	"replace":
+	{
+		"height": 58.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"rou",
+				"app\\Http\\routes.php"
+			],
+			[
+				"welcom",
+				"resources\\views\\welcome.blade.php"
+			],
+			[
+				"r",
+				"app\\Http\\routes.php"
+			],
+			[
+				"rout",
+				"app\\Http\\routes.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 281.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

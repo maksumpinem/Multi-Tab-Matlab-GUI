@@ -1,0 +1,23 @@
+ant:
+<ant>
+  <mkdir dir="D:\My Documents\MATLAB\Prototipe new multitab GUI\SimulasiPembelajaranTelekomunikasi\for_redistribution" />
+  <mkdir dir="D:\My Documents\MATLAB\Prototipe new multitab GUI\SimulasiPembelajaranTelekomunikasi\for_testing" />
+  <mkdir dir="D:\My Documents\MATLAB\Prototipe new multitab GUI\SimulasiPembelajaranTelekomunikasi\for_redistribution_files_only" />
+</ant>
+mcc -C -o SimulasiPembelajaranTelekomunikasi -W WinMain:SimulasiPembelajaranTelekomunikasi -T link:exe -d 'D:\My Documents\MATLAB\Prototipe new multitab GUI\SimulasiPembelajaranTelekomunikasi\for_testing' -v 'D:\My Documents\MATLAB\Prototipe new multitab GUI\UserInterfaceMain.m' -a 'D:\My Documents\MATLAB\Prototipe new multitab GUI\eraseme.m' -a 'D:\My Documents\MATLAB\Prototipe new multitab GUI\gui_mainfcnW.m' -a 'D:\My Documents\MATLAB\Prototipe new multitab GUI\HomeBackground.jpg' -a 'D:\My Documents\MATLAB\Prototipe new multitab GUI\tab2.fig' -a 'D:\My Documents\MATLAB\Prototipe new multitab GUI\tab2.m' 
+Compiler version: 6.0 (R2015a)
+Dependency analysis by REQUIREMENTS.
+[Warning: Adding path "D:\My Documents\MATLAB\Prototipe new multitab GUI" to
+Compiler path instance.] 
+Parsing file "D:\My Documents\MATLAB\Prototipe new multitab GUI\UserInterfaceMain.m"
+	(Referenced from: "Compiler Command Line").
+Deleting 0 temporary MEX authorization files.
+Generating file "D:\My Documents\MATLAB\Prototipe new multitab GUI\SimulasiPembelajaranTelekomunikasi\for_testing\readme.txt".
+Packaging...
+Adding custom icon C:\Program Files\MATLAB\MATLAB Production Server\R2015a\toolbox\compiler\Resources\default_icon.ico to D:\My Documents\MATLAB\Prototipe new multitab GUI\SimulasiPembelajaranTelekomunikasi\for_testing\SimulasiPembelajaranTelekomunikasi.exe.
+Attempting to embed the CTF archive into the application D:\My Documents\MATLAB\Prototipe new multitab GUI\SimulasiPembelajaranTelekomunikasi\for_testing\SimulasiPembelajaranTelekomunikasi.exe.
+Finished embedding CTF archive. Deleting the external CTF archive.
+Creating the bundle...
+Web based installer created at D:\My Documents\MATLAB\Prototipe new multitab GUI\SimulasiPembelajaranTelekomunikasi\for_redistribution\MyAppInstaller_web.exe.
+Packaging complete.
+Elapsed packaging time was: 7 minutes and 22 seconds.
